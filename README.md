@@ -34,7 +34,7 @@
 
 <br>
 
-[![redberryp2 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=redberryp2&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![redberryp2 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SaneBang&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
