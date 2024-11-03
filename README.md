@@ -41,7 +41,6 @@
 <!--## Pinned repos-->
 ### Pined Repository
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SaneBang&repo=AutonomousDrivingStudy&theme=chartreuse-dark)]([https://github.com/SaneBang/AutonomousDrivingStudy](https://github.com/SaneBang/AutonomousDrivingStudy.git))
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SaneBang&repo=AlgorithmStudy&theme=chartreuse-dark)]([https://github.com/SaneBang/AlgorithmStudy](https://github.com/SaneBang/AlgorithmStudy.git))
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SaneBang&repo=KalmanFilterStudy&theme=chartreuse-dark)]([https://github.com/SaneBang/KalmanFilterStudy](https://github.com/SaneBang/KalmanFilterStudy.git))
 
 
