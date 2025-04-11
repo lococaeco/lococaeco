@@ -4,7 +4,9 @@
 
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredberryp2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSaneBang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 # About Me
 
@@ -28,7 +30,7 @@
 ## More about me
 <p align="center">
   <a href="https://redberryp2.github.io/"><img src="https://img.shields.io/badge/-redberry%20p2-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
-  <a href=https://youtu.be/4fYsfZ0rsK4?si=pa7t1bGm5nnm7Q0t"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
+  <a href="https://youtu.be/4fYsfZ0rsK4?si=pa7t1bGm5nnm7Q0t"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
   <a href="mailto:sangwoo6999@naver.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 
@@ -40,8 +42,9 @@
 
 <!--## Pinned repos-->
 ### Pined Repository
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SaneBang&repo=AutonomousDrivingStudy&theme=chartreuse-dark)]([https://github.com/SaneBang/AutonomousDrivingStudy](https://github.com/SaneBang/AutonomousDrivingStudy.git))
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SaneBang&repo=KalmanFilterStudy&theme=chartreuse-dark)]([https://github.com/SaneBang/KalmanFilterStudy](https://github.com/SaneBang/KalmanFilterStudy.git))
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SaneBang&repo=AutonomousDrivingStudy&theme=chartreuse-dark)](https://github.com/SaneBang/AutonomousDrivingStudy)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SaneBang&repo=KalmanFilterStudy&theme=chartreuse-dark)](https://github.com/SaneBang/KalmanFilterStudy)
+
 
 
 
