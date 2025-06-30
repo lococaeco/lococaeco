@@ -1,3 +1,5 @@
+<div align="center">
+
 # About Me
 
 **Education:** Inha University, B.S. in Mechanical Engineering
