@@ -23,7 +23,7 @@ Autonomous Driving
 
 ## More about me
 <p align="center">
-  <a href="https://lococaeco.github.io/"><img src="https://img.shields.io/badge/-redberry%20p2-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  <a href="https://github.com/lococaeco/"><img src="https://img.shields.io/badge/-redberry%20p2-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <a href="https://youtu.be/4fYsfZ0rsK4?si=pa7t1bGm5nnm7Q0t"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
   <a href="mailto:sangwoo6999@naver.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
