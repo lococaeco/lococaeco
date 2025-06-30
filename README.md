@@ -2,11 +2,14 @@
 
 # About Me
 
-**Education:** Inha University, B.S. in Mechanical Engineering
+**Education** 
+Inha University, B.S. in Mechanical Engineering
+Ulsan National Institute of Science and Technology (UNIST), M.S. in Artificial Intelligence
 
 ## Interest
 
-**Autonomous Path Planning and Control**
+Reinforcement Learning
+Autonomous Driving
   
 ## Skills
 <p align="center">
