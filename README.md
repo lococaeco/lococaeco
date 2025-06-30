@@ -2,13 +2,12 @@
 
 # About Me
 
-**Education** 
-Inha University, B.S. in Mechanical Engineering
+**Education** <br>
+Inha University, B.S. in Mechanical Engineering <br>
 Ulsan National Institute of Science and Technology (UNIST), M.S. in Artificial Intelligence
 
-## Interest
-
-Reinforcement Learning
+## Interest <br>
+Reinforcement Learning <br>
 Autonomous Driving
   
 ## Skills
