@@ -1,13 +1,3 @@
-<!--img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a-->
-<!-- referred [here](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/) [here2](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0) [here3](https://github.com/ProtossDragoon/ProtossDragoon/blob/master/README.md) -->
-<!-- [icons](https://simpleicons.org/) [stats](https://github.com/anuraghazra/github-readme-stats) [hits](https://hits.seeyoufarm.com/) [badges](https://efficientuser.com/2019/09/12/add-some-cool-badges-in-your-github-repo/) -->
-
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSaneBang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
 # About Me
 
 **Education:** Inha University, B.S. in Mechanical Engineering
