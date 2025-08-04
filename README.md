@@ -1,5 +1,8 @@
 <div align="center">
 
+
+<img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small" alt="hits" />
+
 # About Me
 
 **Education** <br>
