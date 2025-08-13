@@ -41,7 +41,7 @@ Autonomous Driving
 
 <!--## Pinned repos-->
 ### Pined Repository
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lococaeco&repo=AutonomousDrivingStudy&theme=chartreuse-dark)](https://github.com/lococaeco/AutonomousDrivingStudy)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lococaeco&repo=ReinforcementLearning&theme=chartreuse-dark)](https://github.com/lococaeco/ReinforcementLearning)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lococaeco&repo=KalmanFilterStudy&theme=chartreuse-dark)](https://github.com/lococaeco/KalmanFilterStudy)
 
 
