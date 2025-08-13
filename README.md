@@ -5,7 +5,7 @@
 
 # About Me
 
-**Education** <br>
+## Education <br>
 Inha University, B.S. in Mechanical Engineering <br>
 Ulsan National Institute of Science and Technology (UNIST), M.S. in Artificial Intelligence
 
