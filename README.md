@@ -10,18 +10,12 @@ Inha University, B.S. in Mechanical Engineering <br>
 Ulsan National Institute of Science and Technology (UNIST), M.S. in Artificial Intelligence
 
 ## Interest <br>
-Reinforcement Learning <br>
-Autonomous Driving
+I am conducting research on aligning large language models with human preferences through reinforcement learning and improving their reasoning capabilities. <br>
+
   
 ## Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
+<p align="center"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-%23EE4C2C?logo=pytorch"></a>&nbsp 
 </p>
 
 ## More about me
