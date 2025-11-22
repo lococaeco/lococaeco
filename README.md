@@ -3,8 +3,6 @@
 
 <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small" alt="hits" />
 
-# About Me
-
 ## Education <br>
 Inha University, B.S. in Mechanical Engineering <br>
 Ulsan National Institute of Science and Technology (UNIST), M.S. in Artificial Intelligence
