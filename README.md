@@ -29,7 +29,7 @@ I am conducting research on aligning large language models with human preference
   </a>
 </p>
 
-<br> [![Redberryp2 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lococaeco&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+<br> [![Lococaeco GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lococaeco&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 
 
