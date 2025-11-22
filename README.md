@@ -12,53 +12,32 @@ Ulsan National Institute of Science and Technology (UNIST), M.S. in Artificial I
 ## Interest <br>
 I am conducting research on aligning large language models with human preferences through reinforcement learning and improving their reasoning capabilities. <br>
 
-  
-## Skills
+<!--https://shields.io/badges-->  
+## Skills 
 <p align="center"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-%23EE4C2C?logo=pytorch"></a>&nbsp 
+<img alt="Static Badge" src="https://img.shields.io/badge/pytorch-color?style=social&logo=pytorch">&nbsp
+<img alt="Static Badge" src="https://img.shields.io/badge/python-color?style=social&logo=python">&nbsp
 </p>
 
 ## More about me
 <p align="center">
-  <a href="https://github.com/lococaeco/"><img src="https://img.shields.io/badge/-lococaeco-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
-  <!--<a href="https://youtu.be/4fYsfZ0rsK4?si=pa7t1bGm5nnm7Q0t"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>-->
-  
-  
-  <a href="mailto:sangwoo6999@naver.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/lococaeco/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/lococaeco-blue?style=for-the-badge">
+  </a>&nbsp
+  <a href="mailto:sangwoobang@unist.ac.kr">
+    <img alt="Static Badge" src="https://img.shields.io/badge/sangwoobang-blue?style=for-the-badge">
+  </a>
 </p>
 
 <br>
-
-[![redberryp2 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lococaeco&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![lococaeco GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lococaeco&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-<!--## Pinned repos-->
+<!--## Pinned repos
 ### Pined Repository
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lococaeco&repo=ReinforcementLearning&theme=chartreuse-dark)](https://github.com/lococaeco/ReinforcementLearning)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lococaeco&repo=KalmanFilterStudy&theme=chartreuse-dark)](https://github.com/lococaeco/KalmanFilterStudy)
-
-
-
-
-<!--
-### Algorithms
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=FAST-LIO-SAM-SC-QN&theme=chartreuse-dark)](https://github.com/redberryp2/FAST-LIO-SAM-SC-QN)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=FAST-LIO-SAM-QN&theme=chartreuse-dark)](https://github.com/redberryp2/FAST-LIO-SAM-QN)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=FAST-LIO-SAM&theme=chartreuse-dark)](https://github.com/redberryp2/FAST-LIO-SAM)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=FAST_LIO_MULTI&theme=chartreuse-dark)](https://github.com/redberryp2/FAST_LIO_MULTI)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=FAST-LIO-Localization-QN&theme=chartreuse-dark)](https://github.com/redberryp2/FAST-LIO-Localization-QN)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sungwook87&repo=mlcpp&theme=chartreuse-dark)](https://github.com/sungwook87/mlcpp)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=TROT-Q&theme=chartreuse-dark)](https://github.com/redberryp2/TROT-Q)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=ieee_uav_2022&theme=chartreuse-dark)](https://github.com/redberryp2/ieee_uav_2022)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=ROLAND&theme=chartreuse-dark)](https://github.com/redberryp2/ROLAND)
- [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=ceo-mlcpp&theme=chartreuse-dark)](https://github.com/redberryp2/ceo-mlcpp) -->
-
-<!--
-### Simulations
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=gazebo_maps&theme=chartreuse-dark)](https://github.com/redberryp2/gazebo_maps)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Woojin-Seol&repo=KVRC2022&theme=chartreuse-dark)](https://github.com/Woojin-Seol/KVRC2022)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Woojin-Seol&repo=KVRC2021&theme=chartreuse-dark)](https://github.com/Woojin-Seol/KVRC2021) -->
+-->
 
 
 </div>
