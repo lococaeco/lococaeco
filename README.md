@@ -10,7 +10,8 @@ Ulsan National Institute of Science and Technology (UNIST), M.S. in Artificial I
 ## Interest <br>
 I am conducting research on aligning large language models with human preferences through reinforcement learning and improving their reasoning capabilities. <br>
 
-<!--https://shields.io/badges-->  
+<!--https://shields.io/badges           https://simpleicons.org/            --> 
+
 ## Skills 
 <p align="center"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-color?style=social&logo=pytorch">&nbsp
